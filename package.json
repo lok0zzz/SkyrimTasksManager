@@ -2,7 +2,7 @@
   "name": "SkyrimTasksManager",
   "version": "1.0.0",
   "main": "index.js",
-  "author": "Raul Silva Bardela <raulbardela06@gmail.com>",
+  "author": "Raul Silva Bardela <raulbardela06@gmail.com> ",
   "license": "MIT",
   "devDependencies": {
     "commitizen": "^4.3.0",
